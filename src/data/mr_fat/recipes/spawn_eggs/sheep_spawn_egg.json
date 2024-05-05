@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "101",
+    "222"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "1": {
+      "tag": "minecraft:wool"
+    },
+    "2": {
+      "item": "minecraft:mutton"
+    }
+  },
+  "result": {
+    "item": "minecraft:sheep_spawn_egg",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:dune_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:sandstone"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "minecraft:dune_armor_trim_smithing_template",
+    "count": 2
+  }
+}

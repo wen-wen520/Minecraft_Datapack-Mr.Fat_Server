@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "mr_fat:crafting_table/chainmail_boots",
+      "mr_fat:crafting_table/chainmail_chestplate",
+      "mr_fat:crafting_table/chainmail_helmet",
+      "mr_fat:crafting_table/chainmail_leggings",
+      "mr_fat:crafting_table/enchanted_golden_apple",
+      "mr_fat:crafting_table/saddle",
+      "mr_fat:spawn_eggs/axolotl_spawn_egg",
+      "mr_fat:spawn_eggs/bee_spawn_egg",
+      "mr_fat:spawn_eggs/blaze_spawn_egg",
+      "mr_fat:spawn_eggs/cave_spider_spawn_egg",
+      "mr_fat:spawn_eggs/cow_spawn_egg",
+      "mr_fat:spawn_eggs/creeper_spawn_egg",
+      "mr_fat:spawn_eggs/endermite_spawn_egg",
+      "mr_fat:spawn_eggs/mooshroom_spawn_egg",
+      "mr_fat:spawn_eggs/panda_spawn_egg",
+      "mr_fat:spawn_eggs/pig_spawn_egg",
+      "mr_fat:spawn_eggs/sheep_spawn_egg",
+      "mr_fat:spawn_eggs/skeleton_horse_spawn_egg",
+      "mr_fat:spawn_eggs/skeleton_spawn_egg",
+      "mr_fat:spawn_eggs/spider_spawn_egg",
+      "mr_fat:spawn_eggs/villager_spawn_egg",
+      "mr_fat:spawn_eggs/zombie_horse_spawn_egg",
+      "mr_fat:spawn_eggs/zombie_spawn_egg",
+      "mr_fat:crafting_table/trident",
+      "mr_fat:crafting_table/spawner"
+    ]
+  }
+}

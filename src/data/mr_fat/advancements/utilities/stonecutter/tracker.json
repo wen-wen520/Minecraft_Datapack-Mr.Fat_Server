@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:stonecutter"
+      }
+    }
+  },
+  "rewards": {
+    "function": "mr_fat:utilities/stonecutter/damage"
+  }
+}
