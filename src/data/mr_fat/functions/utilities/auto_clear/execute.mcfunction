@@ -1,0 +1,1 @@
+execute store result score auto_clear_count w_w.mrfat.config as @e[type=item] at @s unless data entity @s Item.tag.Enchantments run kill @s 
