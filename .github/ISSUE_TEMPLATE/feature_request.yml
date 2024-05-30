@@ -1,0 +1,19 @@
+name: \[💡 Enhancement] 功能需求
+description: 给游戏提供建议或点子
+title: "[Enhancement] 标题"
+labels:
+  - "💡 Enhancement"
+assignees: wen-wen520
+body:
+- type: markdown
+  attributes: 
+    value: |
+      ## 请尽可能详细的描述您的请求
+
+- type: textarea
+  id: problem-description
+  validations: 
+    required: true
+  attributes: 
+    label: 描述
+    description: 描述想法

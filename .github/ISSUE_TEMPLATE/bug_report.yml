@@ -1,0 +1,40 @@
+name: \[🐛 Bug] 问题报告
+description: 提交问题以提升游戏稳定性
+title: "[Bug] 标题"
+assignees: wen-wen520
+labels:
+  - "🐛 Bug"
+body:      
+- type: textarea
+  id: description
+  validations:
+    required: true
+  attributes:
+     label: 描述
+     description: 请简短的描述你遇到的问题
+
+- type: textarea
+  id: screenshots
+  attributes:
+     label: 截图
+     description: 如果可以，提交截图可以更好描述问题
+
+- type: textarea
+  id: recurrent
+  validations:
+    required: true
+  attributes:
+     label: 复现
+     description: 复现问题的步骤
+
+- type: checkboxes
+  id: target-game-version
+  attributes:
+     label: 游戏版本
+     description: 选择发现问题的 Minecraft 客户端游戏版本
+     options:
+       - label: "1.20.4"
+       - label: "1.20.3"
+       - label: "1.20.2"
+       - label: "1.20.1"
+       - label: "1.20"
