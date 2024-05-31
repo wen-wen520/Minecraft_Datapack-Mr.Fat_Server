@@ -1,0 +1,251 @@
+menu-settings:
+  name: '&e&l连锁采集'
+  rows: 6
+  commands:
+    - chestcommands_wenwen_veinminer_tool_page
+item-1-1:
+  POSITION-X: 1
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-1:
+  POSITION-X: 3
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-1:
+  POSITION-X: 4
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-1:
+  POSITION-X: 6
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-1:
+  POSITION-X: 7
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-1:
+  POSITION-X: 8
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-1:
+  POSITION-X: 9
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-2:
+  POSITION-X: 1
+  POSITION-Y: 2
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-3:
+  POSITION-X: 1
+  POSITION-Y: 3
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-2:
+  POSITION-X: 9
+  POSITION-Y: 2
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-5:
+  POSITION-X: 9
+  POSITION-Y: 5
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-1:
+  POSITION-X: 5
+  POSITION-Y: 1
+  NAME: '&e连锁采集'
+  LORE:
+    - '&7连锁采集信息页面'
+  MATERIAL: diamond_pickaxe
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-1:
+  POSITION-X: 2
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-4:
+  POSITION-X: 1
+  POSITION-Y: 4
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-5:
+  POSITION-X: 1
+  POSITION-Y: 5
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-3:
+  POSITION-X: 9
+  POSITION-Y: 3
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-4:
+  POSITION-X: 9
+  POSITION-Y: 4
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-6:
+  POSITION-X: 1
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-6:
+  POSITION-X: 2
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-6:
+  POSITION-X: 3
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-6:
+  POSITION-X: 4
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-6:
+  POSITION-X: 5
+  POSITION-Y: 6
+  ACTIONS:
+    - chestcommands_wenwen_main_page
+  NAME: '&c&n返回上一级'
+  MATERIAL: arrow
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-6:
+  POSITION-X: 6
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-6:
+  POSITION-X: 7
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-6:
+  POSITION-X: 8
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-6:
+  POSITION-X: 9
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-2:
+  POSITION-X: 2
+  POSITION-Y: 2
+  ACTIONS:
+    - chestcommands_wenwen_veinminer_pickaxe_page
+  NAME: '&b镐子'
+  LORE:
+    - '&7用法 &f: 蹲下 &b&n默认shift&r &f后并且 &b&n镐子'
+    - '&r&f       挖掘对应方块时会触发连锁采集'
+  MATERIAL: diamond_pickaxe
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-2:
+  POSITION-X: 3
+  POSITION-Y: 2
+  ACTIONS:
+    - chestcommands_wenwen_veinminer_axe_page
+  NAME: '&b斧子'
+  LORE:
+    - '&7用法 &f: 蹲下 &b&n默认shift&r &f后并且 &b&n斧子'
+    - '&r&f       挖掘对应方块时会触发连锁采集'
+  MATERIAL: diamond_axe
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-2:
+  POSITION-X: 4
+  POSITION-Y: 2
+  ACTIONS:
+    - chestcommands_wenwen_veinminer_shovel_page
+  NAME: '&b铲子'
+  LORE:
+    - '&7用法 &f: 蹲下 &b&n默认shift&r &f后并且 &b&n铲子'
+    - '&r&f       挖掘对应方块时会触发连锁采集'
+  MATERIAL: diamond_shovel
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-2:
+  POSITION-X: 5
+  POSITION-Y: 2
+  ACTIONS:
+    - chestcommands_wenwen_veinminer_hoe_page
+  NAME: '&b锄头'
+  LORE:
+    - '&7用法 &f: 蹲下 &b&n默认shift&r &f后并且 &b&n锄头'
+    - '&r&f       挖掘对应方块时会触发连锁采集'
+  MATERIAL: diamond_hoe
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-2:
+  POSITION-X: 6
+  POSITION-Y: 2
+  ACTIONS:
+    - chestcommands_wenwen_veinminer_shears_page
+  NAME: '&b剪刀'
+  LORE:
+    - '&7用法 &f: 蹲下 &b&n默认shift&r &f后并且 &b&n剪刀'
+    - '&r&f       挖掘对应方块时会触发连锁采集'
+  MATERIAL: shears
+  AMOUNT: 1
+  KEEP-OPEN: true

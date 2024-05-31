@@ -1,0 +1,496 @@
+menu-settings:
+  name: '&6&l命令帮助'
+  rows: 6
+  commands:
+    - chestcommands_wenwen_commands_page
+item-1-1:
+  POSITION-X: 1
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-1:
+  POSITION-X: 3
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-1:
+  POSITION-X: 4
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-1:
+  POSITION-X: 6
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-1:
+  POSITION-X: 7
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-1:
+  POSITION-X: 8
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-1:
+  POSITION-X: 9
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-2:
+  POSITION-X: 1
+  POSITION-Y: 2
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-3:
+  POSITION-X: 1
+  POSITION-Y: 3
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-2:
+  POSITION-X: 9
+  POSITION-Y: 2
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-5:
+  POSITION-X: 9
+  POSITION-Y: 5
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-1:
+  POSITION-X: 5
+  POSITION-Y: 1
+  NAME: '&6&l命令帮助'
+  LORE:
+    - '&7'
+    - '&b&n点击介绍的图标可以快速发生命令哦'
+  MATERIAL: command_block
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-4:
+  POSITION-X: 7
+  POSITION-Y: 4
+  ACTIONS:
+    - crawl
+  NAME: '&a爬行'
+  LORE:
+    - '&7介绍 &f: 在地上爬行'
+    - '&7介绍 &f: 或许使用活板门也可以哦'
+    - '&7'
+    - '&7用法 &f: &b&n/crawl'
+  MATERIAL: bamboo_trapdoor
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-1:
+  POSITION-X: 2
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-4:
+  POSITION-X: 1
+  POSITION-Y: 4
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-5:
+  POSITION-X: 1
+  POSITION-Y: 5
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-3:
+  POSITION-X: 9
+  POSITION-Y: 3
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-4:
+  POSITION-X: 9
+  POSITION-Y: 4
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-6:
+  POSITION-X: 1
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-6:
+  POSITION-X: 2
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-6:
+  POSITION-X: 3
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-6:
+  POSITION-X: 4
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-6:
+  POSITION-X: 5
+  POSITION-Y: 6
+  ACTIONS:
+    - chestcommands_wenwen_main_page
+  NAME: '&c&n返回上一级'
+  MATERIAL: arrow
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-6:
+  POSITION-X: 6
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-6:
+  POSITION-X: 7
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-6:
+  POSITION-X: 8
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-6:
+  POSITION-X: 9
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-3:
+  POSITION-X: 2
+  POSITION-Y: 3
+  NAME: '&e社交'
+  LORE:
+    - '&7'
+    - '&7社交要使用到的命令'
+  MATERIAL: name_tag
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-3:
+  POSITION-X: 4
+  POSITION-Y: 3
+  ACTIONS:
+    - tell ww_test hi
+  NAME: '&a私信'
+  LORE:
+    - '&7介绍 &f: 向玩家发送私信'
+    - '&7'
+    - '&7用法 &f: &b&n/tell <玩家> <消息>'
+    - '&7用法 &f: &b&n/msg <玩家> <消息>'
+    - '&7用法 &f: &b&n/w <玩家> <消息>'
+  MATERIAL: paper
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-4:
+  POSITION-X: 2
+  POSITION-Y: 4
+  NAME: '&e动作'
+  LORE:
+    - '&7'
+    - '&7使用命令摆出造型吧'
+  MATERIAL: armor_stand
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-3:
+  POSITION-X: 5
+  POSITION-Y: 3
+  ACTIONS:
+    - tm 使用/teammsg 发送队伍消息
+  NAME: '&a队伍'
+  LORE:
+    - '&7介绍 &f: 发送队伍消息'
+    - '&7'
+    - '&7用法 &f: &b&n/teammsg <信息>'
+    - '&7用法 &f: &b&n/tm <信息>'
+  MATERIAL: paper
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-4:
+  POSITION-X: 4
+  POSITION-Y: 4
+  ACTIONS:
+    - lay
+  NAME: '&a躺下'
+  LORE:
+    - '&7介绍 &f: 躺到地上 '
+    - '&7介绍 &f: 或许使用床也可以哦'
+    - '&7'
+    - '&7用法 &f: &b&n/lay'
+  MATERIAL: white_bed
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-4:
+  POSITION-X: 8
+  POSITION-Y: 4
+  ACTIONS:
+    - spin
+  NAME: '&a旋转'
+  LORE:
+    - '&7介绍 &f: 开始转圈圈'
+    - '&7介绍 &f: 或许使用激流三叉戟也可以哦'
+    - '&7'
+    - '&7用法 &f: &b&n/spin'
+  MATERIAL: trident
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-4:
+  POSITION-X: 6
+  POSITION-Y: 4
+  ACTIONS:
+    - bellyflop
+  NAME: '&a趴下'
+  LORE:
+    - '&7介绍 &f: 趴到地上 '
+    - '&7介绍 &f: 或许使用活板门也可以哦'
+    - '&7'
+    - '&7用法 &f: &b&n/bellyflop'
+  MATERIAL: oak_trapdoor
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-4:
+  POSITION-X: 5
+  POSITION-Y: 4
+  ACTIONS:
+    - sit
+  NAME: '&a坐下'
+  LORE:
+    - '&7介绍 &f: 坐到地上 '
+    - '&7介绍 &f: 或许空手右键 半砖 楼梯 也可以哦'
+    - '&7'
+    - '&7用法 &f: &b&n/sit'
+  MATERIAL: cherry_stairs
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-5:
+  POSITION-X: 4
+  POSITION-Y: 5
+  ACTIONS:
+    - back
+  NAME: '&a后退'
+  LORE:
+    - '&7介绍 &f: 返回上一个或者死亡地点'
+    - '&7'
+    - '&7用法 &f: &b&n/back'
+  MATERIAL: chorus_flower
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-5:
+  POSITION-X: 5
+  POSITION-Y: 5
+  ACTIONS:
+    - tpa ww_test
+  NAME: '&a传送'
+  LORE:
+    - '&7介绍 &f: 请求传送到指定玩家'
+    - '&7'
+    - '&7用法 &f: &b&n/tpa <玩家>'
+  MATERIAL: ender_pearl
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-5:
+  POSITION-X: 6
+  POSITION-Y: 5
+  ACTIONS:
+    - tpahere ww_test
+  NAME: '&a到这来'
+  LORE:
+    - '&7介绍 &f: 请求将指定玩家传送到身边'
+    - '&7'
+    - '&7用法 &f: &b&n/tpahere <玩家>'
+  MATERIAL: ender_eye
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-5:
+  POSITION-X: 7
+  POSITION-Y: 5
+  ACTIONS:
+    - tpaccept
+  NAME: '&a同意传送'
+  LORE:
+    - '&7介绍 &f: &a同意&f其他玩家的传送请求'
+    - '&7'
+    - '&7用法 &f: &b&n/tpaccept'
+    - '&7用法 &f: &b&n/tpyes'
+  MATERIAL: lime_stained_glass
+  AMOUNT: 1
+  KEEP-OPEN: false
+item-8-5:
+  POSITION-X: 8
+  POSITION-Y: 5
+  ACTIONS:
+    - tpdeny
+  NAME: '&a拒绝传送'
+  LORE:
+    - '&7介绍 &f: &c拒绝&f其他玩家的传送请求'
+    - '&7'
+    - '&7用法 &f: &b&n/tpdeny'
+    - '&7用法 &f: &b&n/tpno'
+  MATERIAL: red_stained_glass
+  AMOUNT: 1
+  KEEP-OPEN: false
+item-2-5:
+  POSITION-X: 2
+  POSITION-Y: 5
+  NAME: '&e传送'
+  LORE:
+    - '&7'
+    - '&7在世界之间来去自如'
+  MATERIAL: lodestone
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-2:
+  POSITION-X: 3
+  POSITION-Y: 2
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-3:
+  POSITION-X: 3
+  POSITION-Y: 3
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-4:
+  POSITION-X: 3
+  POSITION-Y: 4
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-5:
+  POSITION-X: 3
+  POSITION-Y: 5
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-3:
+  POSITION-X: 6
+  POSITION-Y: 3
+  NAME: '&a物品'
+  LORE:
+    - '&7介绍 &f: 在聊天框内展示手中物品'
+    - '&7'
+    - '&7用法 &f: 直接在聊天框内打出 &b&n[i]&r&f 即可'
+  MATERIAL: item_frame
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-2:
+  POSITION-X: 2
+  POSITION-Y: 2
+  NAME: '&e常用'
+  LORE:
+    - '&7'
+    - '&7经常性使用的命令'
+  MATERIAL: redstone
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-2:
+  POSITION-X: 4
+  POSITION-Y: 2
+  ACTIONS:
+    - res help
+  NAME: '&a领地'
+  LORE:
+    - '&7介绍 &f: 显示领地插件的相关帮助'
+    - '&7'
+    - '&7用法 &f: &b&n/res help'
+    - '&7'
+    - '&7简介 &f: 使用 &e木制锄头 &f选择区域'
+    - '&7简介 &f: &b&n/res create [<名称>]&r&f 选择区域创建一个新的领地'
+    - '&7简介 &f: &b&n/res set&r&f 打开领地 &6权限&f 设置界面'
+    - '&7简介 &f: &b&n/res tp [<名称>]&r&f 传送到指定的领地'
+  MATERIAL: map
+  AMOUNT: 1
+  KEEP-OPEN: false
+item-5-2:
+  POSITION-X: 5
+  POSITION-Y: 2
+  ACTIONS:
+    - sethome home
+  NAME: '&a设置家'
+  LORE:
+    - '&7介绍 &f: 设置家'
+    - '&7'
+    - '&7用法 &f: &b&n/sethome <名称>'
+  MATERIAL: oak_door
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-3:
+  POSITION-X: 7
+  POSITION-Y: 3
+  ACTIONS:
+    - image create https://img.3dmgame.com/uploads/images/news/20200716/1594884207_864116.jpg 100
+      
+  NAME: '&a图片'
+  LORE:
+    - '&7介绍 &f: 自定义插入图片'
+    - '&7'
+    - '&7创建 &f: &b&n/image create <链接> <尺寸>'
+    - '&7删除 &f: &b&n/image delete'
+  MATERIAL: painting
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-2:
+  POSITION-X: 6
+  POSITION-Y: 2
+  ACTIONS:
+    - home
+  NAME: '&a回家'
+  LORE:
+    - '&7介绍 &f: 回家'
+    - '&7'
+    - '&7用法 &f: &b&n/home'
+  MATERIAL: dark_oak_door
+  AMOUNT: 1
+  KEEP-OPEN: true

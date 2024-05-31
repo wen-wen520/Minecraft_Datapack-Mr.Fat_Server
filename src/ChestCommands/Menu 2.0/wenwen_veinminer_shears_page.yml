@@ -1,0 +1,356 @@
+menu-settings:
+  name: '&e&l连锁采集'
+  rows: 6
+  commands:
+    - chestcommands_wenwen_veinminer_shears_page
+item-1-1:
+  POSITION-X: 1
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-1:
+  POSITION-X: 3
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-1:
+  POSITION-X: 4
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-1:
+  POSITION-X: 6
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-1:
+  POSITION-X: 7
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-1:
+  POSITION-X: 8
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-1:
+  POSITION-X: 9
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-2:
+  POSITION-X: 1
+  POSITION-Y: 2
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-3:
+  POSITION-X: 1
+  POSITION-Y: 3
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-2:
+  POSITION-X: 9
+  POSITION-Y: 2
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-5:
+  POSITION-X: 9
+  POSITION-Y: 5
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-1:
+  POSITION-X: 5
+  POSITION-Y: 1
+  NAME: '&e连锁采集'
+  LORE:
+    - '&7'
+    - '&7用法 &f: 蹲下 &b&n默认shift&r &f后'
+    - '&f       并且手持 &b&n相对等级的锄剪刀'
+    - '&r&f       挖掘本页方块时会触发连锁采集'
+  MATERIAL: shears
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-1:
+  POSITION-X: 2
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-4:
+  POSITION-X: 1
+  POSITION-Y: 4
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-5:
+  POSITION-X: 1
+  POSITION-Y: 5
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-3:
+  POSITION-X: 9
+  POSITION-Y: 3
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-4:
+  POSITION-X: 9
+  POSITION-Y: 4
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-6:
+  POSITION-X: 1
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-6:
+  POSITION-X: 2
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-6:
+  POSITION-X: 3
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-6:
+  POSITION-X: 4
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-6:
+  POSITION-X: 5
+  POSITION-Y: 6
+  ACTIONS:
+    - chestcommands_wenwen_veinminer_tool_page
+  NAME: '&c&n返回上一级'
+  MATERIAL: arrow
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-6:
+  POSITION-X: 6
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-6:
+  POSITION-X: 7
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-6:
+  POSITION-X: 8
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-6:
+  POSITION-X: 9
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-2:
+  POSITION-X: 2
+  POSITION-Y: 2
+  MATERIAL: acacia_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-2:
+  POSITION-X: 3
+  POSITION-Y: 2
+  MATERIAL: azalea_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-2:
+  POSITION-X: 4
+  POSITION-Y: 2
+  MATERIAL: birch_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-2:
+  POSITION-X: 5
+  POSITION-Y: 2
+  MATERIAL: dark_oak_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-2:
+  POSITION-X: 6
+  POSITION-Y: 2
+  MATERIAL: flowering_azalea_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-2:
+  POSITION-X: 7
+  POSITION-Y: 2
+  MATERIAL: jungle_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-3:
+  POSITION-X: 2
+  POSITION-Y: 3
+  MATERIAL: oak_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-3:
+  POSITION-X: 3
+  POSITION-Y: 3
+  MATERIAL: spruce_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-3:
+  POSITION-X: 4
+  POSITION-Y: 3
+  MATERIAL: cherry_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-3:
+  POSITION-X: 5
+  POSITION-Y: 3
+  MATERIAL: black_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-2:
+  POSITION-X: 8
+  POSITION-Y: 2
+  MATERIAL: mangrove_leaves
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-3:
+  POSITION-X: 6
+  POSITION-Y: 3
+  MATERIAL: blue_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-3:
+  POSITION-X: 7
+  POSITION-Y: 3
+  MATERIAL: brown_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-3:
+  POSITION-X: 8
+  POSITION-Y: 3
+  MATERIAL: cyan_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-4:
+  POSITION-X: 2
+  POSITION-Y: 4
+  MATERIAL: gray_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-4:
+  POSITION-X: 3
+  POSITION-Y: 4
+  MATERIAL: green_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-4:
+  POSITION-X: 4
+  POSITION-Y: 4
+  MATERIAL: light_blue_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-4:
+  POSITION-X: 5
+  POSITION-Y: 4
+  MATERIAL: light_gray_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-4:
+  POSITION-X: 6
+  POSITION-Y: 4
+  MATERIAL: lime_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-4:
+  POSITION-X: 7
+  POSITION-Y: 4
+  MATERIAL: magenta_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-4:
+  POSITION-X: 8
+  POSITION-Y: 4
+  MATERIAL: orange_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-5:
+  POSITION-X: 2
+  POSITION-Y: 5
+  MATERIAL: pink_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-5:
+  POSITION-X: 3
+  POSITION-Y: 5
+  MATERIAL: purple_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-5:
+  POSITION-X: 4
+  POSITION-Y: 5
+  MATERIAL: red_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-5:
+  POSITION-X: 5
+  POSITION-Y: 5
+  MATERIAL: white_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-5:
+  POSITION-X: 6
+  POSITION-Y: 5
+  MATERIAL: yellow_wool
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-5:
+  POSITION-X: 7
+  POSITION-Y: 5
+  MATERIAL: cobweb
+  AMOUNT: 1
+  KEEP-OPEN: true

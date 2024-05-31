@@ -1,0 +1,235 @@
+menu-settings:
+  name: '&e&l通知'
+  rows: 6
+  commands:
+    - chestcommands_wenwen_notification_page_1
+item-1-1:
+  POSITION-X: 1
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-1:
+  POSITION-X: 3
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-1:
+  POSITION-X: 4
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-1:
+  POSITION-X: 6
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-1:
+  POSITION-X: 7
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-1:
+  POSITION-X: 8
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-1:
+  POSITION-X: 9
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-2:
+  POSITION-X: 1
+  POSITION-Y: 2
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-3:
+  POSITION-X: 1
+  POSITION-Y: 3
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-2:
+  POSITION-X: 9
+  POSITION-Y: 2
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-5:
+  POSITION-X: 9
+  POSITION-Y: 5
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-1:
+  POSITION-X: 5
+  POSITION-Y: 1
+  ACTIONS:
+    - chestcommands_wenwen_recipes_main_page
+  NAME: '&b通知中心'
+  LORE:
+    - '&7本页展示服务器的所有通知'
+  MATERIAL: bell
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-1:
+  POSITION-X: 2
+  POSITION-Y: 1
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-4:
+  POSITION-X: 1
+  POSITION-Y: 4
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-5:
+  POSITION-X: 1
+  POSITION-Y: 5
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-3:
+  POSITION-X: 9
+  POSITION-Y: 3
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-4:
+  POSITION-X: 9
+  POSITION-Y: 4
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-1-6:
+  POSITION-X: 1
+  POSITION-Y: 6
+  ACTIONS:
+    - chestcommands_wenwen_main_page
+  NAME: '&c&n上一页'
+  MATERIAL: arrow
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-6:
+  POSITION-X: 2
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-6:
+  POSITION-X: 3
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-4-6:
+  POSITION-X: 4
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-5-6:
+  POSITION-X: 5
+  POSITION-Y: 6
+  ACTIONS:
+    - chestcommands_wenwen_main_page
+  NAME: '&c&n返回上一级'
+  MATERIAL: arrow
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-6-6:
+  POSITION-X: 6
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-7-6:
+  POSITION-X: 7
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-8-6:
+  POSITION-X: 8
+  POSITION-Y: 6
+  NAME: '&0'
+  MATERIAL: gray_stained_glass_pane
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-9-6:
+  POSITION-X: 9
+  POSITION-Y: 6
+  ACTIONS:
+    - chestcommands_wenwen_notification_page_2
+  NAME: '&a&n下一页'
+  MATERIAL: arrow
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-2-2:
+  POSITION-X: 2
+  POSITION-Y: 2
+  NAME: '&c关闭自动睡觉'
+  LORE:
+    - '&7'
+    - '&7&l内容 &f:'
+    - '&f &a自动睡觉&f已经关闭'
+    - '&f 服务器现在&c不会&f自动跳过夜晚'
+    - '&f 但是只要 &a1 &f名玩家睡觉就可以全体跳过夜晚哦'
+    - '&7'
+    - '&7&l处理人 &f:'
+    - '&7 &d&nwen_wen520'
+    - '&7'
+    - '&7&l时间 &f:'
+    - '&a &o2024年5月19日'
+  MATERIAL: writable_book
+  AMOUNT: 1
+  KEEP-OPEN: true
+item-3-2:
+  POSITION-X: 3
+  POSITION-Y: 2
+  NAME: '&c正版验证已经开启'
+  LORE:
+    - '&7'
+    - '&7&l内容 &f:'
+    - '&f 为了减少游戏内不良玩家'
+    - '&f 服务器已经开启&a正版验证'
+    - '&f 没有正版的玩家依然可以通过基岩版进行游玩'
+    - '&7'
+    - '&7&l处理人 &f:'
+    - '&7 &e&nLIKImk'
+    - '&7'
+    - '&7&l时间 &f:'
+    - '&a &o2024年5月18日'
+  MATERIAL: writable_book
+  AMOUNT: 1
+  KEEP-OPEN: true

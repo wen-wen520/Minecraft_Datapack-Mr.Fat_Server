@@ -1,3 +1,5 @@
+# bossbar
+bossbar set w_w:auto_sleep visible false
 # message
 tellraw @a "§b服务器 §7> §f已经 §a成功§f 跳过这个夜晚"
 title @a actionbar "§7今夜文文终于可以睡个好觉咯"
