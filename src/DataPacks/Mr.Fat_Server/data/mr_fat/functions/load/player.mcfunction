@@ -6,5 +6,5 @@ tellraw @s ["§b服务器 §7>> §f [§d§lDatapck For Mr fat Server§r§f] 加�
 #  load datapack
 scoreboard players set @s w_w.mrfat.datapack 1
 #  load menu
-execute as @s at @s unless entity @s[scores={w_w.mrfat.menu=1}] run give @s clock{AttributeModifiers:[{AttributeName:"generic.attack_damage",Name:"generic.attack_damage",Amount:1,Operation:0,Slot:"mainhand",UUID:[I;0,1,2,3]}],Enchantments:[{id:"mending",lvl:3},{id:"knockback",lvl:3}],display:{Name:'"§e§l菜单§r §7v2"',Lore:['""','" §a右键可以打开菜单"','"§a或许还可以防身…"','""','"§f由 §dwen_wen520 §f提供"']}}
+execute as @s at @s unless entity @s[scores={w_w.mrfat.menu=1}] run give @s clock{AttributeModifiers:[{AttributeName:"generic.attack_damage",Name:"generic.attack_damage",Amount:1,Operation:0,Slot:"mainhand",UUID:[I;0,1,2,3]}],Enchantments:[{id:"mending",lvl:3},{id:"knockback",lvl:3}],display:{Name:'"§e§l菜单§r §7v2"',Lore:['""','"§a右键可以打开菜单"','"§a或许还可以防身…"','""','"§f由 §dwen_wen520 §f提供"','""']}}
 scoreboard players set @s w_w.mrfat.menu 1
