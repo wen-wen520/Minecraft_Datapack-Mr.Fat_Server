@@ -1,16 +1,16 @@
 {
   "type": "minecraft:smithing_transform",
   "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
+    "item": "minecraft:bolt_armor_trim_smithing_template"
   },
   "base": {
-    "item": "minecraft:netherrack"
+    "item": "minecraft:copper_block"
   },
   "addition": {
     "item": "minecraft:diamond"
   },
   "result": {
-    "id": "minecraft:rib_armor_trim_smithing_template",
+    "id": "minecraft:bolt_armor_trim_smithing_template",
     "count": 2
   }
 }

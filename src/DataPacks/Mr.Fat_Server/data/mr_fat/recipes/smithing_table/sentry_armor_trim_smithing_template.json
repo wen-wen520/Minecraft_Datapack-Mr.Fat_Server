@@ -4,13 +4,13 @@
     "item": "minecraft:sentry_armor_trim_smithing_template"
   },
   "base": {
-    "item": "minecraft:mossy_cobblestone"
+    "item": "minecraft:cobblestone"
   },
   "addition": {
     "item": "minecraft:diamond"
   },
   "result": {
-    "item": "minecraft:sentry_armor_trim_smithing_template",
+    "id": "minecraft:sentry_armor_trim_smithing_template",
     "count": 2
   }
 }
