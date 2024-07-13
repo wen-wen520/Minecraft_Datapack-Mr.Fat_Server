@@ -1,0 +1,35 @@
+name: Package DataPacks
+
+# 触发条件，使用 workflow_dispatch 允许手动触发
+on:
+  workflow_dispatch:
+    inputs:  # 允许手动触发时输入参数
+      zip_name:
+        description: 'Name of the zip file to be created'
+        required: true
+        default: 'testww'
+
+jobs:
+  zip:
+    # 指定运行环境，这里使用最新的 Ubuntu
+    runs-on: ubuntu-latest
+
+    steps:
+      # 第一步：检出仓库的代码
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # 第二步：安装 zip 工具
+      - name: Install zip
+        run: sudo apt-get install -y zip
+
+      # 第三步：将指定目录下的所有文件和文件夹打包成 zip 文件，文件名为输入参数
+      - name: Zip files
+        run: zip -r ${{ github.event.inputs.zip_name }}.zip src/DataPacks/Mr.Fat_Server
+
+      # 第四步：上传打包生成的 zip 文件作为 artifact
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ github.event.inputs.zip_name }}  # Artifact 的名称
+          path: ${{ github.event.inputs.zip_name }}.zip  # 要上传的文件路径
