@@ -1,4 +1,4 @@
-name: Package DataPacks 2
+name: Package DataPacks
 
 # 触发条件，使用 workflow_dispatch 允许手动触发
 on:
@@ -17,17 +17,23 @@ jobs:
     steps:
       # 第一步：检出仓库的代码
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
 
       # 第二步：安装 zip 工具
       - name: Install zip
         run: sudo apt-get install -y zip
 
-      # 第三步：将指定目录下的所有文件和文件夹打包成 zip 文件，文件名为输入参数
-      - name: Zip files
-        run: zip -rj ${{ github.event.inputs.zip_name }}.zip src/DataPacks/Mr.Fat_Server/*
+      # 第三步：创建一个临时目录，并复制所有文件到该目录
+      - name: Prepare files
+        run: |
+          mkdir temp_dir
+          cp -r src/DataPacks/Mr.Fat_Server/* temp_dir
 
-      # 第四步：上传打包生成的 zip 文件作为 artifact
+      # 第四步：将临时目录中的所有文件和文件夹打包成 zip 文件，文件名为输入参数
+      - name: Zip files
+        run: zip -r ${{ github.event.inputs.zip_name }}.zip temp_dir/*
+
+      # 第五步：上传打包生成的 zip 文件作为 artifact
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
