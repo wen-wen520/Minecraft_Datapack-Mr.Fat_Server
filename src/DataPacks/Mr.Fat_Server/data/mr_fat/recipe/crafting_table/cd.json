@@ -9,14 +9,14 @@
 	"result": {
 		"id": "minecraft:clock",
 		"components": {
-			"minecraft:custom_name": "§e§l菜单§r §7v3",
+			"minecraft:custom_name": "\"§e§l菜单§r §7v3\"",
 			"minecraft:lore": [
-				"",
-				"§a右键可以打开菜单",
-				"§a或许还可以防身…",
-				"",
-				"§f由 §dwen_wen520 §f提供",
-				""
+				"\"\"",
+				"\"§a右键可以打开菜单\"",
+				"\"§a或许还可以防身…\"",
+				"\"\"",
+				"\"§f由 §dwen_wen520 §f提供\"",
+				"\"\""
 			],
 			"minecraft:attribute_modifiers": {
 				"modifiers": [
@@ -41,8 +41,8 @@
 					"id": "minecraft:clock",
 					"components": {
 						"minecraft:lore": [
-							"",
-							"放入工作台重新合成未食用的菜单"
+							"\"\"",
+							"\"放入工作台重新合成未食用的菜单\""
 						]
 					}
 				}
