@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "000",
+    "010",
+    "1 1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "minecraft:saddle",
+    "count": 1
+  }
+}

@@ -10,7 +10,7 @@
 					"children": [
 						{
 							"type": "minecraft:item",
-							"name": "minecraft:spawner",
+							"name": "minecraft:iron_block",
 							"conditions": [
 								{
 									"condition": "minecraft:match_tool",

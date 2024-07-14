@@ -1,0 +1,38 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"pattern": [
+		"010",
+		"0 0",
+		"0 0"
+	],
+	"key": {
+		"0": {
+			"item": "minecraft:phantom_membrane"
+		},
+		"1": {
+			"item": "minecraft:shulker_shell"
+		}
+	},
+	"result": {
+		"id": "minecraft:elytra",
+		"components": {
+			"minecraft:attribute_modifiers": [
+				{
+					"id": "minecraft:generic.armor",
+					"type": "minecraft:generic.armor",
+					"amount": 2,
+					"operation": "add_value",
+					"slot": "armor"
+				},
+				{
+					"id": "minecraft:generic.armor_toughness",
+					"type": "minecraft:generic.armor_toughness",
+					"amount": 1,
+					"operation": "add_value",
+					"slot": "armor"
+				}
+			]
+		}
+	}
+}
