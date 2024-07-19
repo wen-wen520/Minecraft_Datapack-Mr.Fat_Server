@@ -3,7 +3,7 @@
 	"pools": [
 		{
 			"rolls": 1,
-			"bonus_rolls": 0,
+			"bonus_rolls": 2,
 			"entries": [
 				{
 					"type": "minecraft:item",
@@ -33,7 +33,7 @@
 		},
 		{
 			"rolls": 1,
-			"bonus_rolls": 0,
+			"bonus_rolls": 2,
 			"entries": [
 				{
 					"type": "minecraft:item",
@@ -63,7 +63,7 @@
 		},
 		{
 			"rolls": 1,
-			"bonus_rolls": 0,
+			"bonus_rolls": 2,
 			"entries": [
 				{
 					"type": "minecraft:item",
@@ -77,14 +77,18 @@
 				{
 					"condition": "minecraft:random_chance_with_enchanted_bonus",
 					"enchantment": "minecraft:looting",
-					"unenchanted_chance": 0.0025,
-					"enchanted_chance": 0.01
+					"unenchanted_chance": 0.025,
+					"enchanted_chance": {
+						"type": "minecraft:linear",
+						"base": 0.035,
+						"per_level_above_first": 0.01
+					}
 				}
 			]
 		},
 		{
 			"rolls": 1,
-			"bonus_rolls": 0,
+			"bonus_rolls": 2,
 			"entries": [
 				{
 					"type": "minecraft:item",
@@ -98,8 +102,32 @@
 				{
 					"condition": "minecraft:random_chance_with_enchanted_bonus",
 					"enchantment": "minecraft:looting",
-					"unenchanted_chance": 0.0025,
-					"enchanted_chance": 0.01
+					"unenchanted_chance": 0.025,
+					"enchanted_chance": {
+						"type": "minecraft:linear",
+						"base": 0.035,
+						"per_level_above_first": 0.01
+					}
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:wither_skeleton_skull",
+					"conditions": [
+						{
+							"condition": "minecraft:damage_source_properties",
+							"predicate": {
+								"direct_entity": {
+									"type": "minecraft:creeper",
+									"nbt": "{powered:1}"
+								}
+							}
+						}
+					]
 				}
 			]
 		}
