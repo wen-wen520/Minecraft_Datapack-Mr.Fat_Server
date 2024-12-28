@@ -68,3 +68,7 @@
 [misode.github.io](https://github.com/misode/misode.github.io) 提供数据包跨版本服务
 
 [crafting.thedestruc7i0n.ca](https://crafting.thedestruc7i0n.ca/) 为游戏进度提供支持
+
+[高亮透视](https://github.com/sheep-realms) 演示材质包 - 1
+
+[Barebones](https://modrinth.com/resourcepack/bare-bones) 演示材质包 - 2
